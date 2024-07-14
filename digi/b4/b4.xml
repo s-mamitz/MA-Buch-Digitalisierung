@@ -1,0 +1,2267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" ID="danske-lov-mm-buch-4" OBJID="danske-lov-mm-buch-4" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dv="http://dfg-viewer.de/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+  <mets:metsHdr ID="HDR_danske-lov-mm-buch-4" CREATEDATE="2024-07-14T19:15:27+00:00" RECORDSTATUS="completed">
+    <mets:agent ROLE="CUSTODIAN" TYPE="ORGANIZATION">
+      <mets:name>Forschungszentrum Gotha, Prof. Dr. Martin Mulsow; Marc Eric Mitzscherling, BA</mets:name>
+    </mets:agent>
+    <mets:agent ROLE="CREATOR" TYPE="INDIVIDUAL">
+      <mets:name>Marc Eric Mitzscherling, BA</mets:name>
+    </mets:agent>
+  </mets:metsHdr>
+  <mets:dmdSec ID="DMDSEC">
+    <mets:mdWrap MDTYPE="MODS">
+      <mets:xmlData>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:identifier type="local">Danske Lov, MM, Buch 4</mods:identifier>
+          <mods:location>
+            <mods:physicalLocation authority="marcorg" displayLabel="Forschungszentrum Gotha, Prof. Dr. Martin Mulsow; Marc Eric Mitzscherling, BA">Forschungszentrum Gotha, Prof. Dr. Martin Mulsow; Marc Eric Mitzscherling, BA</mods:physicalLocation>
+            <mods:shelfLocator>Danske Lov, MM, Buch 4</mods:shelfLocator>
+          </mods:location>
+          <mods:titleInfo>
+            <mods:title>Kong Christian Den Femtis Danske Lov, Fjerde bog, Om Søretten (dt. Vom Seerecht)</mods:title>
+            <mods:subTitle/>
+          </mods:titleInfo>
+          <mods:name type="personal">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+            </mods:role>
+            <mods:namePart type="family">Christian V.</mods:namePart>
+            <mods:namePart type="given">Dänemark</mods:namePart>
+            <mods:namePart type="date">1646–1699</mods:namePart>
+          </mods:name>
+          <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated encoding="iso8601">1683/</mods:dateCreated>
+            <mods:place>
+              <mods:placeTerm>Kopenhagen</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>Joachim Schmedtgen (1681–1734)</mods:publisher>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+          </mods:language>
+          <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">dan</mods:languageTerm>
+          </mods:language>
+          <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+          </mods:language>
+          <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">ita</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription>
+            <mods:extent/>
+            <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+          </mods:physicalDescription>
+          <mods:abstract type="contents">Seerecht</mods:abstract>
+        </mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="AMDSEC">
+    <mets:rightsMD ID="RIGHTSMD">
+      <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS">
+        <mets:xmlData>
+          <dv:rights xmlns:dv="http://dfg-viewer.de/">
+            <dv:owner>Forschungszentrum Gotha, Prof. Dr. Martin Mulsow; Marc Eric Mitzscherling, BA</dv:owner>
+            <dv:ownerLogo>https://danskelov.netlify.app/logo.png</dv:ownerLogo>
+            <dv:ownerSiteURL>https://www.uni-erfurt.de/forschungszentrum-gotha/</dv:ownerSiteURL>
+            <dv:ownerContact>martin.mulsow@uni-erfurt.de</dv:ownerContact>
+            <dv:license>cc-by-nc-sa</dv:license>
+          </dv:rights>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:digiprovMD ID="DIGIPROVMD">
+      <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+        <mets:xmlData>
+          <dv:links xmlns:dv="http://dfg-viewer.de/">
+            <dv:reference linktext="Projektwebsite">https://danskelov.netlify.app/</dv:reference>
+            <dv:presentation/>
+          </dv:links>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:fileSec ID="FILESEC">
+    <mets:fileGrp USE="DEFAULT">
+      <mets:file ID="DEFAULT_b-4-scan-00001jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00001.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00002jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00002.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00003jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00003.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00004jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00004.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00005jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00005.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00006jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00006.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00007jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00007.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00008jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00008.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00009jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00009.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00010jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00010.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00011jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00011.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00012jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00012.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00013jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00013.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00014jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00014.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00015jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00015.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00016jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00016.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00017jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00017.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00018jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00018.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00019jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00019.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00020jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00020.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00021jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00021.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00022jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00022.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00023jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00023.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00024jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00024.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00025jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00025.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00026jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00026.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00027jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00027.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00028jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00028.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00029jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00029.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00030jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00030.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00031jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00031.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00032jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00032.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00033jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00033.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00034jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00034.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00035jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00035.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00036jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00036.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00037jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00037.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00038jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00038.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00039jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00039.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00040jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00040.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00041jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00041.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00042jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00042.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00043jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00043.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00044jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00044.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00045jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00045.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00046jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00046.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00047jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00047.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00048jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00048.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00049jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00049.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00050jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00050.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00051jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00051.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00052jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00052.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00053jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00053.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00054jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00054.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00055jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00055.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00056jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00056.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00057jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00057.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00058jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00058.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00059jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00059.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00060jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00060.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00061jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00061.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00062jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00062.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00063jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00063.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00064jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00064.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00065jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00065.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00066jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00066.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00067jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00067.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00068jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00068.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00069jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00069.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00070jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00070.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00071jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00071.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00072jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00072.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00073jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00073.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00074jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00074.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00075jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00075.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00076jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00076.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00077jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00077.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00078jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00078.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00079jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00079.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00080jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00080.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00081jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00081.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00082jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00082.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00083jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00083.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00084jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00084.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00085jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00085.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00086jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00086.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00087jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00087.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00088jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00088.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00089jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00089.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00090jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00090.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00091jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00091.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00092jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00092.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00093jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00093.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00094jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00094.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00095jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00095.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00096jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00096.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00097jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00097.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00098jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00098.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00099jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00099.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00100jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00100.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00101jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00101.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00102jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00102.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00103jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00103.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00104jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00104.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00105jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00105.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00106jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00106.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00107jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00107.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00108jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00108.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00109jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00109.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00110jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00110.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00111jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00111.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00112jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00112.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00113jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00113.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00114jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00114.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00115jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00115.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00116jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00116.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00117jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00117.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00118jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00118.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00119jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00119.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00120jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00120.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00121jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00121.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00122jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00122.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00123jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00123.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00124jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00124.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00125jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00125.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00126jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00126.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00127jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00127.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00128jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00128.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00129jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00129.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00130jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00130.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00131jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00131.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00132jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00132.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00133jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00133.jpg"/>
+      </mets:file>
+      <mets:file ID="DEFAULT_b-4-scan-00134jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00134.jpg"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="THUMBS">
+      <mets:file ID="THUMBS_b-4-scan-00001jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00001.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00002jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00002.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00003jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00003.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00004jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00004.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00005jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00005.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00006jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00006.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00007jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00007.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00008jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00008.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00009jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00009.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00010jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00010.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00011jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00011.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00012jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00012.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00013jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00013.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00014jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00014.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00015jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00015.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00016jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00016.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00017jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00017.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00018jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00018.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00019jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00019.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00020jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00020.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00021jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00021.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00022jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00022.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00023jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00023.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00024jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00024.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00025jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00025.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00026jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00026.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00027jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00027.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00028jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00028.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00029jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00029.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00030jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00030.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00031jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00031.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00032jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00032.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00033jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00033.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00034jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00034.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00035jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00035.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00036jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00036.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00037jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00037.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00038jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00038.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00039jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00039.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00040jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00040.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00041jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00041.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00042jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00042.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00043jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00043.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00044jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00044.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00045jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00045.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00046jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00046.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00047jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00047.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00048jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00048.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00049jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00049.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00050jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00050.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00051jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00051.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00052jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00052.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00053jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00053.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00054jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00054.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00055jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00055.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00056jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00056.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00057jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00057.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00058jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00058.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00059jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00059.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00060jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00060.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00061jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00061.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00062jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00062.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00063jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00063.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00064jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00064.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00065jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00065.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00066jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00066.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00067jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00067.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00068jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00068.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00069jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00069.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00070jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00070.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00071jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00071.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00072jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00072.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00073jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00073.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00074jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00074.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00075jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00075.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00076jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00076.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00077jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00077.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00078jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00078.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00079jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00079.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00080jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00080.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00081jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00081.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00082jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00082.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00083jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00083.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00084jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00084.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00085jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00085.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00086jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00086.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00087jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00087.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00088jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00088.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00089jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00089.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00090jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00090.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00091jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00091.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00092jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00092.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00093jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00093.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00094jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00094.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00095jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00095.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00096jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00096.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00097jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00097.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00098jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00098.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00099jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00099.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00100jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00100.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00101jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00101.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00102jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00102.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00103jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00103.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00104jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00104.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00105jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00105.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00106jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00106.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00107jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00107.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00108jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00108.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00109jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00109.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00110jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00110.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00111jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00111.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00112jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00112.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00113jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00113.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00114jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00114.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00115jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00115.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00116jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00116.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00117jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00117.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00118jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00118.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00119jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00119.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00120jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00120.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00121jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00121.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00122jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00122.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00123jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00123.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00124jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00124.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00125jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00125.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00126jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00126.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00127jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00127.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00128jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00128.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00129jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00129.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00130jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00130.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00131jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00131.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00132jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00132.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00133jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00133.jpg"/>
+      </mets:file>
+      <mets:file ID="THUMBS_b-4-scan-00134jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_low/B-4-Scan_00134.jpg"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="DOWNLOAD">
+      <mets:file ID="DOWNLOAD_b-4-scan-00001jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00001.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00002jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00002.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00003jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00003.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00004jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00004.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00005jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00005.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00006jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00006.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00007jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00007.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00008jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00008.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00009jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00009.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00010jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00010.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00011jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00011.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00012jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00012.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00013jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00013.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00014jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00014.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00015jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00015.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00016jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00016.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00017jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00017.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00018jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00018.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00019jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00019.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00020jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00020.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00021jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00021.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00022jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00022.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00023jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00023.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00024jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00024.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00025jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00025.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00026jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00026.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00027jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00027.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00028jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00028.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00029jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00029.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00030jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00030.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00031jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00031.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00032jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00032.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00033jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00033.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00034jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00034.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00035jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00035.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00036jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00036.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00037jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00037.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00038jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00038.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00039jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00039.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00040jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00040.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00041jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00041.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00042jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00042.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00043jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00043.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00044jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00044.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00045jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00045.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00046jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00046.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00047jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00047.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00048jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00048.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00049jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00049.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00050jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00050.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00051jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00051.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00052jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00052.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00053jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00053.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00054jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00054.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00055jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00055.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00056jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00056.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00057jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00057.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00058jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00058.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00059jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00059.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00060jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00060.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00061jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00061.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00062jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00062.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00063jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00063.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00064jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00064.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00065jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00065.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00066jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00066.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00067jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00067.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00068jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00068.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00069jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00069.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00070jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00070.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00071jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00071.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00072jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00072.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00073jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00073.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00074jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00074.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00075jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00075.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00076jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00076.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00077jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00077.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00078jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00078.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00079jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00079.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00080jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00080.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00081jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00081.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00082jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00082.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00083jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00083.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00084jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00084.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00085jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00085.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00086jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00086.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00087jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00087.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00088jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00088.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00089jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00089.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00090jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00090.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00091jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00091.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00092jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00092.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00093jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00093.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00094jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00094.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00095jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00095.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00096jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00096.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00097jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00097.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00098jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00098.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00099jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00099.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00100jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00100.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00101jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00101.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00102jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00102.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00103jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00103.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00104jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00104.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00105jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00105.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00106jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00106.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00107jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00107.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00108jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00108.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00109jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00109.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00110jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00110.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00111jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00111.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00112jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00112.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00113jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00113.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00114jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00114.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00115jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00115.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00116jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00116.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00117jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00117.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00118jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00118.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00119jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00119.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00120jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00120.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00121jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00121.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00122jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00122.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00123jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00123.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00124jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00124.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00125jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00125.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00126jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00126.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00127jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00127.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00128jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00128.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00129jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00129.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00130jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00130.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00131jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00131.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00132jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00132.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00133jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00133.jpg"/>
+      </mets:file>
+      <mets:file ID="DOWNLOAD_b-4-scan-00134jpg" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/web_high/B-4-Scan_00134.jpg"/>
+      </mets:file>
+      <mets:file ID="FULLDOWNLOAD" MIMETYPE="application/pdf">
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://danskelov.netlify.app/digi/b4/b4.pdf"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div ID="PHYSICALDIV" TYPE="physSequence" DMDID="DMDSEC" ADMID="AMDSEC">
+      <mets:fptr FILEID="FULLDOWNLOAD"/>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00001jpg" ORDER="0" TYPE="page" ORDERLABEL="Innenspiegel">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00001jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00001jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00001jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00002jpg" ORDER="1" TYPE="page" ORDERLABEL="564a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00002jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00002jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00002jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00003jpg" ORDER="2" TYPE="page" ORDERLABEL="564a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00003jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00003jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00003jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00004jpg" ORDER="3" TYPE="page" ORDERLABEL="564b r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00004jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00004jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00004jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00005jpg" ORDER="4" TYPE="page" ORDERLABEL="564b v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00005jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00005jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00005jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00006jpg" ORDER="5" TYPE="page" ORDERLABEL="564c r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00006jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00006jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00006jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00007jpg" ORDER="6" TYPE="page" ORDERLABEL="564c v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00007jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00007jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00007jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00008jpg" ORDER="7" TYPE="page" ORDERLABEL="565">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00008jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00008jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00008jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00009jpg" ORDER="8" TYPE="page" ORDERLABEL="566">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00009jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00009jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00009jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00010jpg" ORDER="9" TYPE="page" ORDERLABEL="567">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00010jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00010jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00010jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00011jpg" ORDER="10" TYPE="page" ORDERLABEL="568">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00011jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00011jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00011jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00012jpg" ORDER="11" TYPE="page" ORDERLABEL="569">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00012jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00012jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00012jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00013jpg" ORDER="12" TYPE="page" ORDERLABEL="570">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00013jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00013jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00013jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00014jpg" ORDER="13" TYPE="page" ORDERLABEL="571">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00014jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00014jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00014jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00015jpg" ORDER="14" TYPE="page" ORDERLABEL="572">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00015jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00015jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00015jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00016jpg" ORDER="15" TYPE="page" ORDERLABEL="573">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00016jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00016jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00016jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00017jpg" ORDER="16" TYPE="page" ORDERLABEL="574">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00017jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00017jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00017jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00018jpg" ORDER="17" TYPE="page" ORDERLABEL="575">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00018jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00018jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00018jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00019jpg" ORDER="18" TYPE="page" ORDERLABEL="576">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00019jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00019jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00019jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00020jpg" ORDER="19" TYPE="page" ORDERLABEL="577">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00020jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00020jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00020jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00021jpg" ORDER="20" TYPE="page" ORDERLABEL="578">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00021jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00021jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00021jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00022jpg" ORDER="21" TYPE="page" ORDERLABEL="579">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00022jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00022jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00022jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00023jpg" ORDER="22" TYPE="page" ORDERLABEL="580">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00023jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00023jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00023jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00024jpg" ORDER="23" TYPE="page" ORDERLABEL="581">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00024jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00024jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00024jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00025jpg" ORDER="24" TYPE="page" ORDERLABEL="582">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00025jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00025jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00025jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00026jpg" ORDER="25" TYPE="page" ORDERLABEL="583">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00026jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00026jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00026jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00027jpg" ORDER="26" TYPE="page" ORDERLABEL="584">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00027jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00027jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00027jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00028jpg" ORDER="27" TYPE="page" ORDERLABEL="585">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00028jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00028jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00028jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00029jpg" ORDER="28" TYPE="page" ORDERLABEL="586">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00029jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00029jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00029jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00030jpg" ORDER="29" TYPE="page" ORDERLABEL="587">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00030jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00030jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00030jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00031jpg" ORDER="30" TYPE="page" ORDERLABEL="588">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00031jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00031jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00031jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00032jpg" ORDER="31" TYPE="page" ORDERLABEL="589">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00032jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00032jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00032jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00033jpg" ORDER="32" TYPE="page" ORDERLABEL="590">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00033jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00033jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00033jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00034jpg" ORDER="33" TYPE="page" ORDERLABEL="591">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00034jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00034jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00034jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00035jpg" ORDER="34" TYPE="page" ORDERLABEL="592">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00035jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00035jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00035jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00036jpg" ORDER="35" TYPE="page" ORDERLABEL="593">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00036jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00036jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00036jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00037jpg" ORDER="36" TYPE="page" ORDERLABEL="594">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00037jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00037jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00037jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00038jpg" ORDER="37" TYPE="page" ORDERLABEL="594a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00038jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00038jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00038jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00039jpg" ORDER="38" TYPE="page" ORDERLABEL="594a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00039jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00039jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00039jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00040jpg" ORDER="39" TYPE="page" ORDERLABEL="595">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00040jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00040jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00040jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00041jpg" ORDER="40" TYPE="page" ORDERLABEL="596">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00041jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00041jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00041jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00042jpg" ORDER="41" TYPE="page" ORDERLABEL="597">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00042jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00042jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00042jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00043jpg" ORDER="42" TYPE="page" ORDERLABEL="598">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00043jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00043jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00043jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00044jpg" ORDER="43" TYPE="page" ORDERLABEL="599">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00044jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00044jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00044jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00045jpg" ORDER="44" TYPE="page" ORDERLABEL="600">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00045jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00045jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00045jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00046jpg" ORDER="45" TYPE="page" ORDERLABEL="600a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00046jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00046jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00046jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00047jpg" ORDER="46" TYPE="page" ORDERLABEL="600a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00047jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00047jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00047jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00048jpg" ORDER="47" TYPE="page" ORDERLABEL="601">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00048jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00048jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00048jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00049jpg" ORDER="48" TYPE="page" ORDERLABEL="602">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00049jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00049jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00049jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00050jpg" ORDER="49" TYPE="page" ORDERLABEL="602a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00050jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00050jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00050jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00051jpg" ORDER="50" TYPE="page" ORDERLABEL="602a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00051jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00051jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00051jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00052jpg" ORDER="51" TYPE="page" ORDERLABEL="603">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00052jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00052jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00052jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00053jpg" ORDER="52" TYPE="page" ORDERLABEL="604">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00053jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00053jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00053jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00054jpg" ORDER="53" TYPE="page" ORDERLABEL="605">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00054jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00054jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00054jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00055jpg" ORDER="54" TYPE="page" ORDERLABEL="606">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00055jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00055jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00055jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00056jpg" ORDER="55" TYPE="page" ORDERLABEL="607">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00056jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00056jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00056jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00057jpg" ORDER="56" TYPE="page" ORDERLABEL="608">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00057jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00057jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00057jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00058jpg" ORDER="57" TYPE="page" ORDERLABEL="609">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00058jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00058jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00058jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00059jpg" ORDER="58" TYPE="page" ORDERLABEL="610">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00059jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00059jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00059jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00060jpg" ORDER="59" TYPE="page" ORDERLABEL="611">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00060jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00060jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00060jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00061jpg" ORDER="60" TYPE="page" ORDERLABEL="612">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00061jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00061jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00061jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00062jpg" ORDER="61" TYPE="page" ORDERLABEL="613">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00062jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00062jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00062jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00063jpg" ORDER="62" TYPE="page" ORDERLABEL="614">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00063jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00063jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00063jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00064jpg" ORDER="63" TYPE="page" ORDERLABEL="614a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00064jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00064jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00064jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00065jpg" ORDER="64" TYPE="page" ORDERLABEL="614a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00065jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00065jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00065jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00066jpg" ORDER="65" TYPE="page" ORDERLABEL="615">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00066jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00066jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00066jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00067jpg" ORDER="66" TYPE="page" ORDERLABEL="616">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00067jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00067jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00067jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00068jpg" ORDER="67" TYPE="page" ORDERLABEL="616a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00068jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00068jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00068jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00069jpg" ORDER="68" TYPE="page" ORDERLABEL="616a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00069jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00069jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00069jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00070jpg" ORDER="69" TYPE="page" ORDERLABEL="617">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00070jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00070jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00070jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00071jpg" ORDER="70" TYPE="page" ORDERLABEL="618">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00071jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00071jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00071jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00072jpg" ORDER="71" TYPE="page" ORDERLABEL="619">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00072jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00072jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00072jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00073jpg" ORDER="72" TYPE="page" ORDERLABEL="620">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00073jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00073jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00073jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00074jpg" ORDER="73" TYPE="page" ORDERLABEL="620a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00074jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00074jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00074jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00075jpg" ORDER="74" TYPE="page" ORDERLABEL="620a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00075jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00075jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00075jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00076jpg" ORDER="75" TYPE="page" ORDERLABEL="621">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00076jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00076jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00076jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00077jpg" ORDER="76" TYPE="page" ORDERLABEL="622">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00077jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00077jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00077jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00078jpg" ORDER="77" TYPE="page" ORDERLABEL="623">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00078jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00078jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00078jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00079jpg" ORDER="78" TYPE="page" ORDERLABEL="624">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00079jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00079jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00079jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00080jpg" ORDER="79" TYPE="page" ORDERLABEL="625">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00080jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00080jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00080jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00081jpg" ORDER="80" TYPE="page" ORDERLABEL="626">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00081jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00081jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00081jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00082jpg" ORDER="81" TYPE="page" ORDERLABEL="627">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00082jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00082jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00082jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00083jpg" ORDER="82" TYPE="page" ORDERLABEL="628">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00083jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00083jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00083jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00084jpg" ORDER="83" TYPE="page" ORDERLABEL="629">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00084jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00084jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00084jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00085jpg" ORDER="84" TYPE="page" ORDERLABEL="630">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00085jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00085jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00085jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00086jpg" ORDER="85" TYPE="page" ORDERLABEL="631">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00086jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00086jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00086jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00087jpg" ORDER="86" TYPE="page" ORDERLABEL="632">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00087jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00087jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00087jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00088jpg" ORDER="87" TYPE="page" ORDERLABEL="633">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00088jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00088jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00088jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00089jpg" ORDER="88" TYPE="page" ORDERLABEL="634">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00089jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00089jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00089jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00090jpg" ORDER="89" TYPE="page" ORDERLABEL="634a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00090jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00090jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00090jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00091jpg" ORDER="90" TYPE="page" ORDERLABEL="634a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00091jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00091jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00091jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00092jpg" ORDER="91" TYPE="page" ORDERLABEL="635">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00092jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00092jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00092jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00093jpg" ORDER="92" TYPE="page" ORDERLABEL="636">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00093jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00093jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00093jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00094jpg" ORDER="93" TYPE="page" ORDERLABEL="636a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00094jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00094jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00094jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00095jpg" ORDER="94" TYPE="page" ORDERLABEL="636a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00095jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00095jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00095jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00096jpg" ORDER="95" TYPE="page" ORDERLABEL="637">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00096jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00096jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00096jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00097jpg" ORDER="96" TYPE="page" ORDERLABEL="638">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00097jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00097jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00097jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00098jpg" ORDER="97" TYPE="page" ORDERLABEL="639">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00098jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00098jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00098jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00099jpg" ORDER="98" TYPE="page" ORDERLABEL="640">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00099jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00099jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00099jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00100jpg" ORDER="99" TYPE="page" ORDERLABEL="641">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00100jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00100jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00100jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00101jpg" ORDER="100" TYPE="page" ORDERLABEL="642">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00101jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00101jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00101jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00102jpg" ORDER="101" TYPE="page" ORDERLABEL="642a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00102jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00102jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00102jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00103jpg" ORDER="102" TYPE="page" ORDERLABEL="642a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00103jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00103jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00103jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00104jpg" ORDER="103" TYPE="page" ORDERLABEL="643">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00104jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00104jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00104jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00105jpg" ORDER="104" TYPE="page" ORDERLABEL="644">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00105jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00105jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00105jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00106jpg" ORDER="105" TYPE="page" ORDERLABEL="654">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00106jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00106jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00106jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00107jpg" ORDER="106" TYPE="page" ORDERLABEL="646">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00107jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00107jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00107jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00108jpg" ORDER="107" TYPE="page" ORDERLABEL="647">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00108jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00108jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00108jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00109jpg" ORDER="108" TYPE="page" ORDERLABEL="648">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00109jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00109jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00109jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00110jpg" ORDER="109" TYPE="page" ORDERLABEL="648a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00110jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00110jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00110jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00111jpg" ORDER="110" TYPE="page" ORDERLABEL="648a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00111jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00111jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00111jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00112jpg" ORDER="111" TYPE="page" ORDERLABEL="649">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00112jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00112jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00112jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00113jpg" ORDER="112" TYPE="page" ORDERLABEL="650">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00113jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00113jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00113jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00114jpg" ORDER="113" TYPE="page" ORDERLABEL="651">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00114jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00114jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00114jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00115jpg" ORDER="114" TYPE="page" ORDERLABEL="652">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00115jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00115jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00115jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00116jpg" ORDER="115" TYPE="page" ORDERLABEL="653">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00116jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00116jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00116jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00117jpg" ORDER="116" TYPE="page" ORDERLABEL="654">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00117jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00117jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00117jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00118jpg" ORDER="117" TYPE="page" ORDERLABEL="655">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00118jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00118jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00118jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00119jpg" ORDER="118" TYPE="page" ORDERLABEL="656">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00119jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00119jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00119jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00120jpg" ORDER="119" TYPE="page" ORDERLABEL="657">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00120jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00120jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00120jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00121jpg" ORDER="120" TYPE="page" ORDERLABEL="658">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00121jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00121jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00121jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00122jpg" ORDER="121" TYPE="page" ORDERLABEL="659">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00122jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00122jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00122jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00123jpg" ORDER="122" TYPE="page" ORDERLABEL="660">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00123jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00123jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00123jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00124jpg" ORDER="123" TYPE="page" ORDERLABEL="661">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00124jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00124jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00124jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00125jpg" ORDER="124" TYPE="page" ORDERLABEL="662">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00125jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00125jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00125jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00126jpg" ORDER="125" TYPE="page" ORDERLABEL="663">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00126jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00126jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00126jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00127jpg" ORDER="126" TYPE="page" ORDERLABEL="664">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00127jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00127jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00127jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00128jpg" ORDER="127" TYPE="page" ORDERLABEL="664a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00128jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00128jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00128jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00129jpg" ORDER="128" TYPE="page" ORDERLABEL="664a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00129jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00129jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00129jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00130jpg" ORDER="129" TYPE="page" ORDERLABEL="665">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00130jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00130jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00130jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00131jpg" ORDER="130" TYPE="page" ORDERLABEL="666">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00131jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00131jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00131jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00132jpg" ORDER="131" TYPE="page" ORDERLABEL="666a r">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00132jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00132jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00132jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00133jpg" ORDER="132" TYPE="page" ORDERLABEL="666a v">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00133jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00133jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00133jpg"/>
+      </mets:div>
+      <mets:div ID="PHYSICALDIV_b-4-scan-00134jpg" ORDER="133" TYPE="page" ORDERLABEL="Innenspiegel">
+        <mets:fptr FILEID="DEFAULT_b-4-scan-00134jpg"/>
+        <mets:fptr FILEID="THUMBS_b-4-scan-00134jpg"/>
+        <mets:fptr FILEID="DOWNLOAD_b-4-scan-00134jpg"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:structMap TYPE="LOGICAL">
+    <mets:div ID="LOGICALDIV" TYPE="contents" DMDID="DMDSEC" ADMID="AMDSEC" LABEL="Inhalt">
+      <mets:div ID="LOGICALDIV_STR_0_b-4-scan-00001jpg" TYPE="paste_down" LABEL="Spiegel"/>
+      <mets:div ID="LOGICALDIV_CHP_b-4-scan-00008jpg" TYPE="chapter" LABEL="Capitel 1">
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00008jpg" TYPE="section" LABEL="4-1-1"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00009jpg" TYPE="section" LABEL="4-1-2"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00010jpg" TYPE="section" LABEL="4-1-3"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00011jpg" TYPE="section" LABEL="4-1-4"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00012jpg" TYPE="section" LABEL="4-1-5"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00014jpg" TYPE="section" LABEL="4-1-6, 4-1-7"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00015jpg" TYPE="section" LABEL="4-1-8"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00016jpg" TYPE="section" LABEL="4-1-9"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00018jpg" TYPE="section" LABEL="4-1-10, 4-1-11"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00019jpg" TYPE="section" LABEL="4-1-12, 4-1-13"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00020jpg" TYPE="section" LABEL="4-1-14"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00021jpg" TYPE="section" LABEL="4-1-15, 4-1-16"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00022jpg" TYPE="section" LABEL="4-1-17"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00023jpg" TYPE="section" LABEL="4-1-18"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00024jpg" TYPE="section" LABEL="4-1-19"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00025jpg" TYPE="section" LABEL="4-1-20, 4-1-21"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00026jpg" TYPE="section" LABEL="4-1-22, 4-1-23"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00028jpg" TYPE="section" LABEL="4-1-24, 4-1-25"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00029jpg" TYPE="section" LABEL="4-1-26, 4-1-27"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00030jpg" TYPE="section" LABEL="4-1-28, 4-1-29"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00031jpg" TYPE="section" LABEL="4-1-30"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00032jpg" TYPE="section" LABEL="4-1-31"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00033jpg" TYPE="section" LABEL="4-1-32"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00034jpg" TYPE="section" LABEL="4-1-33"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00035jpg" TYPE="section" LABEL="4-1-34"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00036jpg" TYPE="section" LABEL="4-1-35"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00037jpg" TYPE="section" LABEL="4-1-36, 4-1-37"/>
+      </mets:div>
+      <mets:div ID="LOGICALDIV_CHP_b-4-scan-00040jpg" TYPE="chapter" LABEL="Capitel 2">
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00040jpg" TYPE="section" LABEL="4-1-38, 4-2-1"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00042jpg" TYPE="section" LABEL="4-2-2, 4-2-3"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00043jpg" TYPE="section" LABEL="4-2-4"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00045jpg" TYPE="section" LABEL="4-2-5"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00048jpg" TYPE="section" LABEL="4-2-6, 4-2-7"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00049jpg" TYPE="section" LABEL="4-2-8"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00052jpg" TYPE="section" LABEL="4-2-9, 4-2-10"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00054jpg" TYPE="section" LABEL="4-2-11"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00055jpg" TYPE="section" LABEL="4-2-12"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00056jpg" TYPE="section" LABEL="4-2-13, 4-2-14"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00057jpg" TYPE="section" LABEL="4-2-15"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00058jpg" TYPE="section" LABEL="4-2-16, 4-2-17"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00059jpg" TYPE="section" LABEL="4-2-18, 4-2-19"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00060jpg" TYPE="section" LABEL="4-2-20"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00062jpg" TYPE="section" LABEL="4-2-21, 4-2-22"/>
+      </mets:div>
+      <mets:div ID="LOGICALDIV_CHP_b-4-scan-00066jpg" TYPE="chapter" LABEL="Capitel 3">
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00066jpg" TYPE="section" LABEL="4-3-1"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00067jpg" TYPE="section" LABEL="4-3-2, 4-3-3"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00070jpg" TYPE="section" LABEL="4-3-4"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00071jpg" TYPE="section" LABEL="4-3-5"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00072jpg" TYPE="section" LABEL="4-3-6, 4-3-7"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00073jpg" TYPE="section" LABEL="4-3-8"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00076jpg" TYPE="section" LABEL="4-3-9, 4-3-10"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00078jpg" TYPE="section" LABEL="4-3-11"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00079jpg" TYPE="section" LABEL="4-3-12, 4-3-13"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00080jpg" TYPE="section" LABEL="4-3-14, 4-3-15"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00081jpg" TYPE="section" LABEL="4-3-16, 4-3-17"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00082jpg" TYPE="section" LABEL="4-3-18"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00083jpg" TYPE="section" LABEL="4-3-19, 4-3-20"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00084jpg" TYPE="section" LABEL="4-3-21"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00087jpg" TYPE="section" LABEL="4-3-22"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00088jpg" TYPE="section" LABEL="4-3-23"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00089jpg" TYPE="section" LABEL="4-3-24"/>
+      </mets:div>
+      <mets:div ID="LOGICALDIV_CHP_b-4-scan-00092jpg" TYPE="chapter" LABEL="Capitel 4">
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00092jpg" TYPE="section" LABEL="4-4-1"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00093jpg" TYPE="section" LABEL="4-4-2"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00096jpg" TYPE="section" LABEL="4-4-3, 4-4-4"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00098jpg" TYPE="section" LABEL="4-4-5"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00100jpg" TYPE="section" LABEL="4-4-6, 4-4-7, 4-4-8"/>
+      </mets:div>
+      <mets:div ID="LOGICALDIV_CHP_b-4-scan-00101jpg" TYPE="chapter" LABEL="Capitel 5">
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00101jpg" TYPE="section" LABEL="4-5-1"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00105jpg" TYPE="section" LABEL="4-5-2, 4-5-3"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00106jpg" TYPE="section" LABEL="4-5-4, 4-5-5"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00107jpg" TYPE="section" LABEL="4-5-6, 4-5-7"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00108jpg" TYPE="section" LABEL="4-5-8"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00109jpg" TYPE="section" LABEL="4-5-9"/>
+      </mets:div>
+      <mets:div ID="LOGICALDIV_CHP_b-4-scan-00113jpg" TYPE="chapter" LABEL="Capitel 6">
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00113jpg" TYPE="section" LABEL="4-6-1, 4-6-2"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00114jpg" TYPE="section" LABEL="4-6-3, 4-6-4"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00115jpg" TYPE="section" LABEL="4-6-5, 4-6-6"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00116jpg" TYPE="section" LABEL="4-6-7"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00117jpg" TYPE="section" LABEL="4-6-8, 4-6-9"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00119jpg" TYPE="section" LABEL="4-6-10, 4-6-11"/>
+      </mets:div>
+      <mets:div ID="LOGICALDIV_CHP_b-4-scan-00120jpg" TYPE="chapter" LABEL="Capitel 7">
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00120jpg" TYPE="section" LABEL="4-7-1"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00121jpg" TYPE="section" LABEL="4-7-2"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00122jpg" TYPE="section" LABEL="4-7-3"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00123jpg" TYPE="section" LABEL="4-7-4, 4-7-5"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00124jpg" TYPE="section" LABEL="4-7-6"/>
+      </mets:div>
+      <mets:div ID="LOGICALDIV_CHP_b-4-scan-00125jpg" TYPE="chapter" LABEL="Capitel 8">
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00125jpg" TYPE="section" LABEL="4-8-1"/>
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00126jpg" TYPE="section" LABEL="4-8-2"/>
+      </mets:div>
+      <mets:div ID="LOGICALDIV_CHP_b-4-scan-00130jpg" TYPE="chapter" LABEL="Capitel 9">
+        <mets:div ID="LOGICALDIV_SEC_b-4-scan-00130jpg" TYPE="section" LABEL="4-9-1"/>
+      </mets:div>
+      <mets:div ID="LOGICALDIV_STR_0_b-4-scan-00134jpg" TYPE="paste_down" LABEL="Spiegel"/>
+    </mets:div>
+  </mets:structMap>
+  <mets:structLink ID="STRUCTLINKSEC">
+    <mets:smLink xlink:from="LOGICALDIV_STR_0_b-4-scan-00001jpg" xlink:to="PHYSICALDIV_b-4-scan-00001jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00008jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00008jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00009jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00010jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00011jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00012jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00014jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00015jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00016jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00018jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00019jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00020jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00021jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00022jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00023jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00024jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00025jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00026jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00028jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00029jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00030jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00031jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00032jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00033jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00034jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00035jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00036jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00037jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00008jpg" xlink:to="PHYSICALDIV_b-4-scan-00008jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00009jpg" xlink:to="PHYSICALDIV_b-4-scan-00009jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00010jpg" xlink:to="PHYSICALDIV_b-4-scan-00010jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00011jpg" xlink:to="PHYSICALDIV_b-4-scan-00011jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00012jpg" xlink:to="PHYSICALDIV_b-4-scan-00012jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00014jpg" xlink:to="PHYSICALDIV_b-4-scan-00014jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00015jpg" xlink:to="PHYSICALDIV_b-4-scan-00015jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00016jpg" xlink:to="PHYSICALDIV_b-4-scan-00016jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00018jpg" xlink:to="PHYSICALDIV_b-4-scan-00018jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00019jpg" xlink:to="PHYSICALDIV_b-4-scan-00019jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00020jpg" xlink:to="PHYSICALDIV_b-4-scan-00020jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00021jpg" xlink:to="PHYSICALDIV_b-4-scan-00021jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00022jpg" xlink:to="PHYSICALDIV_b-4-scan-00022jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00023jpg" xlink:to="PHYSICALDIV_b-4-scan-00023jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00024jpg" xlink:to="PHYSICALDIV_b-4-scan-00024jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00025jpg" xlink:to="PHYSICALDIV_b-4-scan-00025jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00026jpg" xlink:to="PHYSICALDIV_b-4-scan-00026jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00028jpg" xlink:to="PHYSICALDIV_b-4-scan-00028jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00029jpg" xlink:to="PHYSICALDIV_b-4-scan-00029jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00030jpg" xlink:to="PHYSICALDIV_b-4-scan-00030jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00031jpg" xlink:to="PHYSICALDIV_b-4-scan-00031jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00032jpg" xlink:to="PHYSICALDIV_b-4-scan-00032jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00033jpg" xlink:to="PHYSICALDIV_b-4-scan-00033jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00034jpg" xlink:to="PHYSICALDIV_b-4-scan-00034jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00035jpg" xlink:to="PHYSICALDIV_b-4-scan-00035jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00036jpg" xlink:to="PHYSICALDIV_b-4-scan-00036jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00037jpg" xlink:to="PHYSICALDIV_b-4-scan-00037jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00040jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00040jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00042jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00043jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00045jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00048jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00049jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00052jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00054jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00055jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00056jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00057jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00058jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00059jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00060jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00062jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00040jpg" xlink:to="PHYSICALDIV_b-4-scan-00040jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00042jpg" xlink:to="PHYSICALDIV_b-4-scan-00042jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00043jpg" xlink:to="PHYSICALDIV_b-4-scan-00043jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00045jpg" xlink:to="PHYSICALDIV_b-4-scan-00045jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00048jpg" xlink:to="PHYSICALDIV_b-4-scan-00048jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00049jpg" xlink:to="PHYSICALDIV_b-4-scan-00049jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00052jpg" xlink:to="PHYSICALDIV_b-4-scan-00052jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00054jpg" xlink:to="PHYSICALDIV_b-4-scan-00054jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00055jpg" xlink:to="PHYSICALDIV_b-4-scan-00055jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00056jpg" xlink:to="PHYSICALDIV_b-4-scan-00056jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00057jpg" xlink:to="PHYSICALDIV_b-4-scan-00057jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00058jpg" xlink:to="PHYSICALDIV_b-4-scan-00058jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00059jpg" xlink:to="PHYSICALDIV_b-4-scan-00059jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00060jpg" xlink:to="PHYSICALDIV_b-4-scan-00060jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00062jpg" xlink:to="PHYSICALDIV_b-4-scan-00062jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00066jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00066jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00067jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00070jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00071jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00072jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00073jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00076jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00078jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00079jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00080jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00081jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00082jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00083jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00084jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00087jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00088jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00089jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00066jpg" xlink:to="PHYSICALDIV_b-4-scan-00066jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00067jpg" xlink:to="PHYSICALDIV_b-4-scan-00067jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00070jpg" xlink:to="PHYSICALDIV_b-4-scan-00070jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00071jpg" xlink:to="PHYSICALDIV_b-4-scan-00071jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00072jpg" xlink:to="PHYSICALDIV_b-4-scan-00072jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00073jpg" xlink:to="PHYSICALDIV_b-4-scan-00073jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00076jpg" xlink:to="PHYSICALDIV_b-4-scan-00076jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00078jpg" xlink:to="PHYSICALDIV_b-4-scan-00078jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00079jpg" xlink:to="PHYSICALDIV_b-4-scan-00079jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00080jpg" xlink:to="PHYSICALDIV_b-4-scan-00080jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00081jpg" xlink:to="PHYSICALDIV_b-4-scan-00081jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00082jpg" xlink:to="PHYSICALDIV_b-4-scan-00082jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00083jpg" xlink:to="PHYSICALDIV_b-4-scan-00083jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00084jpg" xlink:to="PHYSICALDIV_b-4-scan-00084jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00087jpg" xlink:to="PHYSICALDIV_b-4-scan-00087jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00088jpg" xlink:to="PHYSICALDIV_b-4-scan-00088jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00089jpg" xlink:to="PHYSICALDIV_b-4-scan-00089jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00092jpg" xlink:to="PHYSICALDIV_b-4-scan-00092jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00092jpg" xlink:to="PHYSICALDIV_b-4-scan-00092jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00092jpg" xlink:to="PHYSICALDIV_b-4-scan-00093jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00092jpg" xlink:to="PHYSICALDIV_b-4-scan-00096jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00092jpg" xlink:to="PHYSICALDIV_b-4-scan-00098jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00092jpg" xlink:to="PHYSICALDIV_b-4-scan-00100jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00092jpg" xlink:to="PHYSICALDIV_b-4-scan-00092jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00093jpg" xlink:to="PHYSICALDIV_b-4-scan-00093jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00096jpg" xlink:to="PHYSICALDIV_b-4-scan-00096jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00098jpg" xlink:to="PHYSICALDIV_b-4-scan-00098jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00100jpg" xlink:to="PHYSICALDIV_b-4-scan-00100jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00101jpg" xlink:to="PHYSICALDIV_b-4-scan-00101jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00101jpg" xlink:to="PHYSICALDIV_b-4-scan-00101jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00101jpg" xlink:to="PHYSICALDIV_b-4-scan-00105jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00101jpg" xlink:to="PHYSICALDIV_b-4-scan-00106jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00101jpg" xlink:to="PHYSICALDIV_b-4-scan-00107jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00101jpg" xlink:to="PHYSICALDIV_b-4-scan-00108jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00101jpg" xlink:to="PHYSICALDIV_b-4-scan-00109jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00101jpg" xlink:to="PHYSICALDIV_b-4-scan-00101jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00105jpg" xlink:to="PHYSICALDIV_b-4-scan-00105jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00106jpg" xlink:to="PHYSICALDIV_b-4-scan-00106jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00107jpg" xlink:to="PHYSICALDIV_b-4-scan-00107jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00108jpg" xlink:to="PHYSICALDIV_b-4-scan-00108jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00109jpg" xlink:to="PHYSICALDIV_b-4-scan-00109jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00113jpg" xlink:to="PHYSICALDIV_b-4-scan-00113jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00113jpg" xlink:to="PHYSICALDIV_b-4-scan-00113jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00113jpg" xlink:to="PHYSICALDIV_b-4-scan-00114jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00113jpg" xlink:to="PHYSICALDIV_b-4-scan-00115jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00113jpg" xlink:to="PHYSICALDIV_b-4-scan-00116jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00113jpg" xlink:to="PHYSICALDIV_b-4-scan-00117jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00113jpg" xlink:to="PHYSICALDIV_b-4-scan-00119jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00113jpg" xlink:to="PHYSICALDIV_b-4-scan-00113jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00114jpg" xlink:to="PHYSICALDIV_b-4-scan-00114jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00115jpg" xlink:to="PHYSICALDIV_b-4-scan-00115jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00116jpg" xlink:to="PHYSICALDIV_b-4-scan-00116jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00117jpg" xlink:to="PHYSICALDIV_b-4-scan-00117jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00119jpg" xlink:to="PHYSICALDIV_b-4-scan-00119jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00120jpg" xlink:to="PHYSICALDIV_b-4-scan-00120jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00120jpg" xlink:to="PHYSICALDIV_b-4-scan-00120jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00120jpg" xlink:to="PHYSICALDIV_b-4-scan-00121jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00120jpg" xlink:to="PHYSICALDIV_b-4-scan-00122jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00120jpg" xlink:to="PHYSICALDIV_b-4-scan-00123jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00120jpg" xlink:to="PHYSICALDIV_b-4-scan-00124jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00120jpg" xlink:to="PHYSICALDIV_b-4-scan-00120jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00121jpg" xlink:to="PHYSICALDIV_b-4-scan-00121jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00122jpg" xlink:to="PHYSICALDIV_b-4-scan-00122jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00123jpg" xlink:to="PHYSICALDIV_b-4-scan-00123jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00124jpg" xlink:to="PHYSICALDIV_b-4-scan-00124jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00125jpg" xlink:to="PHYSICALDIV_b-4-scan-00125jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00125jpg" xlink:to="PHYSICALDIV_b-4-scan-00125jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00125jpg" xlink:to="PHYSICALDIV_b-4-scan-00126jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00125jpg" xlink:to="PHYSICALDIV_b-4-scan-00125jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00126jpg" xlink:to="PHYSICALDIV_b-4-scan-00126jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00130jpg" xlink:to="PHYSICALDIV_b-4-scan-00130jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_CHP_b-4-scan-00130jpg" xlink:to="PHYSICALDIV_b-4-scan-00130jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_SEC_b-4-scan-00130jpg" xlink:to="PHYSICALDIV_b-4-scan-00130jpg"/>
+    <mets:smLink xlink:from="LOGICALDIV_STR_0_b-4-scan-00134jpg" xlink:to="PHYSICALDIV_b-4-scan-00134jpg"/>
+  </mets:structLink>
+</mets:mets>
